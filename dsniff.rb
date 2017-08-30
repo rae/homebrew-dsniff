@@ -16,7 +16,7 @@ end
 class Dsniff < Formula
   homepage 'http://monkey.org/~dugsong/dsniff/'
   url 'http://monkey.org/~dugsong/dsniff/beta/dsniff-2.4b1.tar.gz'
-  sha256 '94db205d37f496fa39154e54be026e418332043186cb2c679260a9c520402bad'
+  sha256 'a9803a7a02ddfe5fb9704ce86f0ffc48453c321e88db85810db411ba0841152a'
 
   depends_on NoBdb5
   depends_on 'libnet'
